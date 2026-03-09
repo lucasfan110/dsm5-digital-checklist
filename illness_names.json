@@ -1,0 +1,662 @@
+[
+    {
+        "illness_name": "Intellectual Developmental Disorder (Intellectual Disability)",
+        "slug": "intellectual-developmental-disorder-intellectual-disability"
+    },
+    {
+        "illness_name": "Language Disorder",
+        "slug": "language-disorder"
+    },
+    {
+        "illness_name": "Speech Sound Disorder",
+        "slug": "speech-sound-disorder"
+    },
+    {
+        "illness_name": "Childhood-Onset Fluency Disorder (Stuttering)",
+        "slug": "childhood-onset-fluency-disorder-stuttering"
+    },
+    {
+        "illness_name": "Social (Pragmatic) Communication Disorder",
+        "slug": "social-pragmatic-communication-disorder"
+    },
+    {
+        "illness_name": "Autism Spectrum Disorder",
+        "slug": "autism-spectrum-disorder"
+    },
+    {
+        "illness_name": "Attention-Deficit/Hyperactivity Disorder",
+        "slug": "attention-deficit-hyperactivity-disorder"
+    },
+    {
+        "illness_name": "Specific Learning Disorder",
+        "slug": "specific-learning-disorder"
+    },
+    {
+        "illness_name": "Motor Disorders Developmental Coordination Disorder",
+        "slug": "motor-disorders-developmental-coordination-disorder"
+    },
+    {
+        "illness_name": "Stereotypic Movement Disorder",
+        "slug": "stereotypic-movement-disorder"
+    },
+    {
+        "illness_name": "Tic Disorders",
+        "slug": "tic-disorders"
+    },
+    {
+        "illness_name": "Delusional Disorder",
+        "slug": "delusional-disorder"
+    },
+    {
+        "illness_name": "Brief Psychotic Disorder",
+        "slug": "brief-psychotic-disorder"
+    },
+    {
+        "illness_name": "Schizophreniform Disorder",
+        "slug": "schizophreniform-disorder"
+    },
+    {
+        "illness_name": "Schizophrenia",
+        "slug": "schizophrenia"
+    },
+    {
+        "illness_name": "Schizoaffective Disorder",
+        "slug": "schizoaffective-disorder"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Psychotic Disorder",
+        "slug": "substance-medication-induced-psychotic-disorder"
+    },
+    {
+        "illness_name": "Psychotic Disorder Due to Another Medical Condition",
+        "slug": "psychotic-disorder-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Catatonic Disorder Due to Another Medical Condition",
+        "slug": "catatonic-disorder-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Bipolar I Disorder",
+        "slug": "bipolar-i-disorder"
+    },
+    {
+        "illness_name": "Bipolar II Disorder",
+        "slug": "bipolar-ii-disorder"
+    },
+    {
+        "illness_name": "Cyclothymic Disorder",
+        "slug": "cyclothymic-disorder"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Bipolar and Related Disorder",
+        "slug": "substance-medication-induced-bipolar-and-related-disorder"
+    },
+    {
+        "illness_name": "Bipolar and Related Disorder Due to Another Medical Condition",
+        "slug": "bipolar-and-related-disorder-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Disruptive Mood Dysregulation Disorder",
+        "slug": "disruptive-mood-dysregulation-disorder"
+    },
+    {
+        "illness_name": "Major Depressive Disorder",
+        "slug": "major-depressive-disorder"
+    },
+    {
+        "illness_name": "Persistent Depressive Disorder",
+        "slug": "persistent-depressive-disorder"
+    },
+    {
+        "illness_name": "Premenstrual Dysphoric Disorder",
+        "slug": "premenstrual-dysphoric-disorder"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Depressive Disorder",
+        "slug": "substance-medication-induced-depressive-disorder"
+    },
+    {
+        "illness_name": "Depressive Disorder Due to Another Medical Condition",
+        "slug": "depressive-disorder-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Separation Anxiety Disorder",
+        "slug": "separation-anxiety-disorder"
+    },
+    {
+        "illness_name": "Selective Mutism",
+        "slug": "selective-mutism"
+    },
+    {
+        "illness_name": "Specific Phobia",
+        "slug": "specific-phobia"
+    },
+    {
+        "illness_name": "Social Anxiety Disorder",
+        "slug": "social-anxiety-disorder"
+    },
+    {
+        "illness_name": "Panic Disorder",
+        "slug": "panic-disorder"
+    },
+    {
+        "illness_name": "Agoraphobia",
+        "slug": "agoraphobia"
+    },
+    {
+        "illness_name": "Generalized Anxiety Disorder",
+        "slug": "generalized-anxiety-disorder"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Anxiety Disorder",
+        "slug": "substance-medication-induced-anxiety-disorder"
+    },
+    {
+        "illness_name": "Anxiety Disorder Due to Another Medical Condition",
+        "slug": "anxiety-disorder-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Obsessive-Compulsive Disorder",
+        "slug": "obsessive-compulsive-disorder"
+    },
+    {
+        "illness_name": "Body Dysmorphic Disorder",
+        "slug": "body-dysmorphic-disorder"
+    },
+    {
+        "illness_name": "Hoarding Disorder",
+        "slug": "hoarding-disorder"
+    },
+    {
+        "illness_name": "Trichotillomania (Hair-Pulling Disorder)",
+        "slug": "trichotillomania-hair-pulling-disorder"
+    },
+    {
+        "illness_name": "Excoriation (Skin-Picking) Disorder",
+        "slug": "excoriation-skin-picking-disorder"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Obsessive-Compulsive and Related Disorder",
+        "slug": "substance-medication-induced-obsessive-compulsive-and-related-disorder"
+    },
+    {
+        "illness_name": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition",
+        "slug": "obsessive-compulsive-and-related-disorder-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Reactive Attachment Disorder",
+        "slug": "reactive-attachment-disorder"
+    },
+    {
+        "illness_name": "Disinhibited Social Engagement Disorder",
+        "slug": "disinhibited-social-engagement-disorder"
+    },
+    {
+        "illness_name": "Posttraumatic Stress Disorder",
+        "slug": "posttraumatic-stress-disorder"
+    },
+    {
+        "illness_name": "Acute Stress Disorder",
+        "slug": "acute-stress-disorder"
+    },
+    {
+        "illness_name": "Adjustment Disorders",
+        "slug": "adjustment-disorders"
+    },
+    {
+        "illness_name": "Prolonged Grief Disorder",
+        "slug": "prolonged-grief-disorder"
+    },
+    {
+        "illness_name": "Dissociative Identity Disorder",
+        "slug": "dissociative-identity-disorder"
+    },
+    {
+        "illness_name": "Dissociative Amnesia",
+        "slug": "dissociative-amnesia"
+    },
+    {
+        "illness_name": "Depersonalization/Derealization Disorder",
+        "slug": "depersonalization-derealization-disorder"
+    },
+    {
+        "illness_name": "Somatic Symptom Disorder",
+        "slug": "somatic-symptom-disorder"
+    },
+    {
+        "illness_name": "Illness Anxiety Disorder",
+        "slug": "illness-anxiety-disorder"
+    },
+    {
+        "illness_name": "Functional Neurological Symptom Disorder (Conversion Disorder)",
+        "slug": "functional-neurological-symptom-disorder-conversion-disorder"
+    },
+    {
+        "illness_name": "Psychological Factors Affecting Other Medical Conditions",
+        "slug": "psychological-factors-affecting-other-medical-conditions"
+    },
+    {
+        "illness_name": "Factitious Disorder",
+        "slug": "factitious-disorder"
+    },
+    {
+        "illness_name": "Pica",
+        "slug": "pica"
+    },
+    {
+        "illness_name": "Rumination Disorder",
+        "slug": "rumination-disorder"
+    },
+    {
+        "illness_name": "Avoidant/Restrictive Food Intake Disorder",
+        "slug": "avoidant-restrictive-food-intake-disorder"
+    },
+    {
+        "illness_name": "Anorexia Nervosa",
+        "slug": "anorexia-nervosa"
+    },
+    {
+        "illness_name": "Bulimia Nervosa",
+        "slug": "bulimia-nervosa"
+    },
+    {
+        "illness_name": "Binge-Eating Disorder",
+        "slug": "binge-eating-disorder"
+    },
+    {
+        "illness_name": "Enuresis",
+        "slug": "enuresis"
+    },
+    {
+        "illness_name": "Encopresis",
+        "slug": "encopresis"
+    },
+    {
+        "illness_name": "Insomnia Disorder",
+        "slug": "insomnia-disorder"
+    },
+    {
+        "illness_name": "Hypersomnolence Disorder",
+        "slug": "hypersomnolence-disorder"
+    },
+    {
+        "illness_name": "Narcolepsy",
+        "slug": "narcolepsy"
+    },
+    {
+        "illness_name": "Obstructive Sleep Apnea Hypopnea",
+        "slug": "obstructive-sleep-apnea-hypopnea"
+    },
+    {
+        "illness_name": "Central Sleep Apnea",
+        "slug": "central-sleep-apnea"
+    },
+    {
+        "illness_name": "Sleep-Related Hypoventilation",
+        "slug": "sleep-related-hypoventilation"
+    },
+    {
+        "illness_name": "Circadian Rhythm Sleep-Wake Disorders",
+        "slug": "circadian-rhythm-sleep-wake-disorders"
+    },
+    {
+        "illness_name": "Non-Rapid Eye Movement Sleep Arousal Disorders",
+        "slug": "non-rapid-eye-movement-sleep-arousal-disorders"
+    },
+    {
+        "illness_name": "Nightmare Disorder",
+        "slug": "nightmare-disorder"
+    },
+    {
+        "illness_name": "Rapid Eye Movement Sleep Behavior Disorder",
+        "slug": "rapid-eye-movement-sleep-behavior-disorder"
+    },
+    {
+        "illness_name": "Restless Legs Syndrome",
+        "slug": "restless-legs-syndrome"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Sleep Disorder",
+        "slug": "substance-medication-induced-sleep-disorder"
+    },
+    {
+        "illness_name": "Delayed Ejaculation",
+        "slug": "delayed-ejaculation"
+    },
+    {
+        "illness_name": "Erectile Disorder",
+        "slug": "erectile-disorder"
+    },
+    {
+        "illness_name": "Female Orgasmic Disorder",
+        "slug": "female-orgasmic-disorder"
+    },
+    {
+        "illness_name": "Female Sexual Interest/Arousal Disorder",
+        "slug": "female-sexual-interest-arousal-disorder"
+    },
+    {
+        "illness_name": "Genito-Pelvic Pain/Penetration Disorder",
+        "slug": "genito-pelvic-pain-penetration-disorder"
+    },
+    {
+        "illness_name": "Male Hypoactive Sexual Desire Disorder",
+        "slug": "male-hypoactive-sexual-desire-disorder"
+    },
+    {
+        "illness_name": "Premature (Early) Ejaculation",
+        "slug": "premature-early-ejaculation"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Sexual Dysfunction",
+        "slug": "substance-medication-induced-sexual-dysfunction"
+    },
+    {
+        "illness_name": "Gender Dysphoria",
+        "slug": "gender-dysphoria"
+    },
+    {
+        "illness_name": "Oppositional Defiant Disorder",
+        "slug": "oppositional-defiant-disorder"
+    },
+    {
+        "illness_name": "Intermittent Explosive Disorder",
+        "slug": "intermittent-explosive-disorder"
+    },
+    {
+        "illness_name": "Conduct Disorder",
+        "slug": "conduct-disorder"
+    },
+    {
+        "illness_name": "Pyromania",
+        "slug": "pyromania"
+    },
+    {
+        "illness_name": "Kleptomania",
+        "slug": "kleptomania"
+    },
+    {
+        "illness_name": "Alcohol Use Disorder",
+        "slug": "alcohol-use-disorder"
+    },
+    {
+        "illness_name": "Alcohol Intoxication",
+        "slug": "alcohol-intoxication"
+    },
+    {
+        "illness_name": "Alcohol Withdrawal",
+        "slug": "alcohol-withdrawal"
+    },
+    {
+        "illness_name": "Caffeine Intoxication",
+        "slug": "caffeine-intoxication"
+    },
+    {
+        "illness_name": "Caffeine Withdrawal",
+        "slug": "caffeine-withdrawal"
+    },
+    {
+        "illness_name": "Cannabis Use Disorder",
+        "slug": "cannabis-use-disorder"
+    },
+    {
+        "illness_name": "Cannabis Intoxication",
+        "slug": "cannabis-intoxication"
+    },
+    {
+        "illness_name": "Cannabis Withdrawal",
+        "slug": "cannabis-withdrawal"
+    },
+    {
+        "illness_name": "Phencyclidine Use Disorder",
+        "slug": "phencyclidine-use-disorder"
+    },
+    {
+        "illness_name": "Other Hallucinogen Use Disorder",
+        "slug": "other-hallucinogen-use-disorder"
+    },
+    {
+        "illness_name": "Phencyclidine Intoxication",
+        "slug": "phencyclidine-intoxication"
+    },
+    {
+        "illness_name": "Other Hallucinogen Intoxication",
+        "slug": "other-hallucinogen-intoxication"
+    },
+    {
+        "illness_name": "Hallucinogen Persisting Perception Disorder",
+        "slug": "hallucinogen-persisting-perception-disorder"
+    },
+    {
+        "illness_name": "Inhalant Use Disorder",
+        "slug": "inhalant-use-disorder"
+    },
+    {
+        "illness_name": "Inhalant Intoxication",
+        "slug": "inhalant-intoxication"
+    },
+    {
+        "illness_name": "Opioid Use Disorder",
+        "slug": "opioid-use-disorder"
+    },
+    {
+        "illness_name": "Opioid Intoxication",
+        "slug": "opioid-intoxication"
+    },
+    {
+        "illness_name": "Opioid Withdrawal",
+        "slug": "opioid-withdrawal"
+    },
+    {
+        "illness_name": "Sedative, Hypnotic, or Anxiolytic Use Disorder",
+        "slug": "sedative-hypnotic-or-anxiolytic-use-disorder"
+    },
+    {
+        "illness_name": "Sedative, Hypnotic, or Anxiolytic Intoxication",
+        "slug": "sedative-hypnotic-or-anxiolytic-intoxication"
+    },
+    {
+        "illness_name": "Sedative, Hypnotic, or Anxiolytic Withdrawal",
+        "slug": "sedative-hypnotic-or-anxiolytic-withdrawal"
+    },
+    {
+        "illness_name": "Stimulant Use Disorder",
+        "slug": "stimulant-use-disorder"
+    },
+    {
+        "illness_name": "Stimulant Intoxication",
+        "slug": "stimulant-intoxication"
+    },
+    {
+        "illness_name": "Stimulant Withdrawal",
+        "slug": "stimulant-withdrawal"
+    },
+    {
+        "illness_name": "Tobacco Use Disorder",
+        "slug": "tobacco-use-disorder"
+    },
+    {
+        "illness_name": "Tobacco Withdrawal",
+        "slug": "tobacco-withdrawal"
+    },
+    {
+        "illness_name": "Other (or Unknown) Substance Use Disorder",
+        "slug": "other-or-unknown-substance-use-disorder"
+    },
+    {
+        "illness_name": "Other (or Unknown) Substance Intoxication",
+        "slug": "other-or-unknown-substance-intoxication"
+    },
+    {
+        "illness_name": "Other (or Unknown) Substance Withdrawal",
+        "slug": "other-or-unknown-substance-withdrawal"
+    },
+    {
+        "illness_name": "Gambling Disorder",
+        "slug": "gambling-disorder"
+    },
+    {
+        "illness_name": "Delirium",
+        "slug": "delirium"
+    },
+    {
+        "illness_name": "Major Neurocognitive Disorder",
+        "slug": "major-neurocognitive-disorder"
+    },
+    {
+        "illness_name": "Mild Neurocognitive Disorder",
+        "slug": "mild-neurocognitive-disorder"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to Alzheimer's Disease",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-alzheimer-s-disease"
+    },
+    {
+        "illness_name": "Major or Mild Frontotemporal Neurocognitive Disorder",
+        "slug": "major-or-mild-frontotemporal-neurocognitive-disorder"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder With Lewy Bodies",
+        "slug": "major-or-mild-neurocognitive-disorder-with-lewy-bodies"
+    },
+    {
+        "illness_name": "Major or Mild Vascular Neurocognitive Disorder",
+        "slug": "major-or-mild-vascular-neurocognitive-disorder"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-traumatic-brain-injury"
+    },
+    {
+        "illness_name": "Substance/Medication-Induced Major or Mild Neurocognitive Disorder",
+        "slug": "substance-medication-induced-major-or-mild-neurocognitive-disorder"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to HIV Infection",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-hiv-infection"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to Prion Disease",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-prion-disease"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to Parkinson's Disease",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-parkinson-s-disease"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to Huntington's Disease",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-huntington-s-disease"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to Another Medical Condition",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Major or Mild Neurocognitive Disorder Due to Multiple Etiologies",
+        "slug": "major-or-mild-neurocognitive-disorder-due-to-multiple-etiologies"
+    },
+    {
+        "illness_name": "Cluster A Personality Disorders Paranoid Personality Disorder",
+        "slug": "cluster-a-personality-disorders-paranoid-personality-disorder"
+    },
+    {
+        "illness_name": "Schizoid Personality Disorder",
+        "slug": "schizoid-personality-disorder"
+    },
+    {
+        "illness_name": "Schizotypal Personality Disorder",
+        "slug": "schizotypal-personality-disorder"
+    },
+    {
+        "illness_name": "Antisocial Personality Disorder",
+        "slug": "antisocial-personality-disorder"
+    },
+    {
+        "illness_name": "Borderline Personality Disorder",
+        "slug": "borderline-personality-disorder"
+    },
+    {
+        "illness_name": "Histrionic Personality Disorder",
+        "slug": "histrionic-personality-disorder"
+    },
+    {
+        "illness_name": "Narcissistic Personality Disorder",
+        "slug": "narcissistic-personality-disorder"
+    },
+    {
+        "illness_name": "Avoidant Personality Disorder",
+        "slug": "avoidant-personality-disorder"
+    },
+    {
+        "illness_name": "Dependent Personality Disorder",
+        "slug": "dependent-personality-disorder"
+    },
+    {
+        "illness_name": "Obsessive-Compulsive Personality Disorder",
+        "slug": "obsessive-compulsive-personality-disorder"
+    },
+    {
+        "illness_name": "Personality Change Due to Another Medical Condition",
+        "slug": "personality-change-due-to-another-medical-condition"
+    },
+    {
+        "illness_name": "Voyeuristic Disorder",
+        "slug": "voyeuristic-disorder"
+    },
+    {
+        "illness_name": "Exhibitionistic Disorder",
+        "slug": "exhibitionistic-disorder"
+    },
+    {
+        "illness_name": "Frotteuristic Disorder",
+        "slug": "frotteuristic-disorder"
+    },
+    {
+        "illness_name": "Sexual Masochism Disorder",
+        "slug": "sexual-masochism-disorder"
+    },
+    {
+        "illness_name": "Sexual Sadism Disorder",
+        "slug": "sexual-sadism-disorder"
+    },
+    {
+        "illness_name": "Pedophilic Disorder",
+        "slug": "pedophilic-disorder"
+    },
+    {
+        "illness_name": "Fetishistic Disorder",
+        "slug": "fetishistic-disorder"
+    },
+    {
+        "illness_name": "Transvestic Disorder",
+        "slug": "transvestic-disorder"
+    },
+    {
+        "illness_name": "Antisocial Personality Disorder",
+        "slug": "antisocial-personality-disorder"
+    },
+    {
+        "illness_name": "Avoidant Personality Disorder",
+        "slug": "avoidant-personality-disorder"
+    },
+    {
+        "illness_name": "Borderline Personality Disorder",
+        "slug": "borderline-personality-disorder"
+    },
+    {
+        "illness_name": "Narcissist Personality Disorder",
+        "slug": "narcissist-personality-disorder"
+    },
+    {
+        "illness_name": "Obsessive-Compulsive Personality Disorder",
+        "slug": "obsessive-compulsive-personality-disorder"
+    },
+    {
+        "illness_name": "Schizotypal Personality Disorder",
+        "slug": "schizotypal-personality-disorder"
+    },
+    {
+        "illness_name": "Personality Disorder--Trait Specified Proposed",
+        "slug": "personality-disorder-trait-specified-proposed"
+    }
+]

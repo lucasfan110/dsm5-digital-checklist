@@ -62,7 +62,6 @@ h3 {
     justify-content: center;
     align-items: center;
     padding: 3rem;
-    /* margin-bottom: 3rem; */
 }
 
 .browse-all-content-container {
@@ -84,4 +83,25 @@ h3 {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+}
+
+.navbar {
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 3rem;
+}
+
+.navbar .left {
+    flex-grow: 1;
+    display: flex;
+    gap: 2rem;
+}
+
+.navbar .right {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-end;
+    gap: 2rem;
 }
